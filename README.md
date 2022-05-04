@@ -2,7 +2,5 @@
 > For ZJU-数据库系统-2022春夏<br/>
 > Edit By 叉粑<br/>
 > 不包含miniSQL作业<br/>
-* Homewrork: 作业 & 答案 for Edition 6 （编号为No_w_submission）
-* 实验报告
-* 图书管理系统源码 in VB 6.0
-* 参考资料：答案 & 课本
+* Homewrork-      作业 & 答案 for Edition 6 （编号为No_w_submission）
+* Project_Report- 实验报告 & src for 图书管理系统 of project 5 （in VB 6.0）
